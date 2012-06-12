@@ -1,0 +1,11 @@
+{
+	"i18next":{
+		"simple":"what's up",
+		"key": "hello __key__ you have __count__ message",
+		"key_plural": "hello __key__ you have __count__ messages",
+		"key_male": "hello handsome __key__ you have __count__ message",
+		"key_female": "hello beauty __key__ you have __count__ message",
+		"key_male_plural" "hello handsome __key__ you have __count__ messages",
+		"key_female_plural" "hello beauty __key__ you have __count__ messages"
+	}
+}
